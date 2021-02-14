@@ -1,3 +1,7 @@
+#CountDown Timer - version 1
+
+it should be accessible from this link https://cabejackson.github.io/countdownTimer-1/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
