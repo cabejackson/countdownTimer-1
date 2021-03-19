@@ -6,6 +6,7 @@
 
 body {
   font-size: 100%;
+  /* color: #fff; */
 }
 
 .timer-container {
@@ -69,4 +70,8 @@ section p:first-child,
     margin-right: 2em;
     padding: 3em 1em;
   }
+}
+
+#canvas {
+  background-color: aqua;
 }
